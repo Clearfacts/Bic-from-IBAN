@@ -21,3 +21,8 @@ Get a BIC(SWIFT) bank code from IBAN account number
 ```
 
 The bank information is https://github.com/PeterNotenboom/SwiftCodes
+
+## Technical debt links
+
+[Barometer IT](https://wolterskluwer.barometerit.com/b/system/041800002496)
+[SonarQube Project](https://sonarqube.cloud-dev.wolterskluwer.eu//dashboard?id=clearfacts%3ABic-from-IBAN)
